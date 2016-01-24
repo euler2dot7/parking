@@ -15,7 +15,7 @@ void enterSimulation(Sensor * internal, Sensor * external);
 void exitSimulation(Sensor * internal, Sensor * external);
 
 int main() {
-	puts("Start");
+	puts("Start parking");
 	// Creazione di 4 sensori virtuali, 2 per ogni gate
 	Sensor *sensor1 = new Sensor(S1_ID);
 	Sensor *sensor2 = new Sensor(S2_ID);
