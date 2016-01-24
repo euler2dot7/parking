@@ -24,7 +24,7 @@ Utilizzando questa architettura e' possibile dividere l'implementazione del sist
 Un ulteriore vantaggio di questa architettura e' che Controller non dipende dal numero del Gate e' quindi  possibile utilizzare tale sistema nei parcheggi con qualsiasi numero di Gate.
 
 
-#PS
+#Nota
 La soluzione esclude il caso in cui due veicoli entrino in un Gate nello stesso momento  in entrambe le direzioni, occupando un sensore ciascuno.
 
 MainParking.cpp -> configurazione e simulazione
