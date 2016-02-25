@@ -28,3 +28,6 @@ Un ulteriore vantaggio di questa architettura e' che Controller non dipende dal 
 La soluzione esclude il caso in cui due veicoli entrino in un Gate nello stesso momento  in entrambe le direzioni, occupando un sensore ciascuno.
 
 MainParking.cpp -> configurazione e simulazione
+
+#Problem
+![Alt text](/Test_DEV.pdf?raw=true "Gate FSM")
